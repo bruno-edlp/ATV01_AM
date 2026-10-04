@@ -26,3 +26,9 @@ Se `.venv` já estiver preparado, não é necessário recriá-lo. Abra `at1_am.i
 
 Os dados do professor estão no próprio notebook. Os algoritmos usam apenas NumPy; as demais dependências permitem executar e validar notebooks. A pasta `.venv` é local e não deve ser enviada ao GitHub.
 
+
+
+
+## Link da narração NÃO LISTADO no Youtube
+
+https://youtu.be/SBBorjrOi8Y
